@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xmas-2023/static/css/main.1202c4d6.css",
-    "main.js": "/xmas-2023/static/js/main.337b3f4d.js",
+    "main.js": "/xmas-2023/static/js/main.4c15c2c3.js",
     "static/media/canes.svg": "/xmas-2023/static/media/canes.862a4184d4c590200bdbec40c1bd81a3.svg",
     "static/media/wallpaper.png": "/xmas-2023/static/media/wallpaper.5f32ee054268b694aecc.png",
     "index.html": "/xmas-2023/index.html",
     "main.1202c4d6.css.map": "/xmas-2023/static/css/main.1202c4d6.css.map",
-    "main.337b3f4d.js.map": "/xmas-2023/static/js/main.337b3f4d.js.map"
+    "main.4c15c2c3.js.map": "/xmas-2023/static/js/main.4c15c2c3.js.map"
   },
   "entrypoints": [
     "static/css/main.1202c4d6.css",
-    "static/js/main.337b3f4d.js"
+    "static/js/main.4c15c2c3.js"
   ]
 }
